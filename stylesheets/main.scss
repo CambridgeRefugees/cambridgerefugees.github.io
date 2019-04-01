@@ -1,0 +1,17 @@
+//Common styles
+@import "base/color";
+@import "base/buttons";
+@import "base/typography";
+@import "base/reset";
+@import "base/print";
+@import "base/mixin";
+
+//Components styles
+@import "layout/footer";
+@import "layout/header";
+
+//Specific styles
+@import "pages/home";
+@import "pages/contact";
+@import "pages/internal";
+@import "pages/internal2";

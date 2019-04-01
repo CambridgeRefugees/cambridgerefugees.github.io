@@ -1,0 +1,21 @@
+//Buttons styles
+
+.btn {
+  border-radius: 5px;
+  box-shadow: 0px 4px 10px 0 rgba(0, 0, 0, 0.3);
+  height: 40px;
+  width: 110px;
+
+  &:focus, &:active {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  &:hover{
+    background-color: lighten($main-background-color, 15%) !important;
+  }
+
+  &:active{
+    background-color: lighten($main-background-color, 25%) !important;
+  }
+}

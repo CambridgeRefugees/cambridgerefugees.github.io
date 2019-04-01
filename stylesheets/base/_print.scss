@@ -1,0 +1,51 @@
+@media print {
+  .icons {
+    flex-direction: row !important;
+
+    .fab {
+      padding: 0 22px !important;
+    }
+  }
+
+  .navbar {
+    display: flex;
+  }
+
+  .carousel-wrapper {
+    margin: 0 auto !important;
+  }
+
+  .carousel-caption {
+    position: relative;
+  }
+
+  .carousel-wrapper .carousel img{
+      max-width: 75%;
+  }
+
+  .signup {
+    display: flex;
+    line-height: 35px;
+  }
+
+  .supports h2 {
+    color: #000;
+  }
+
+  .supports-background .section-wrapper {
+    background-position: center -175px !important;
+  }
+
+  footer .wrapper {
+    display: flex;
+
+    ul {
+      display: flex;
+
+      li {
+        list-style: none;
+        margin: 0 10px;
+      }
+    }
+  }
+}
