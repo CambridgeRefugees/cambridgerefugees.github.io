@@ -1,12 +1,29 @@
-<header class="header">
-  <nav>
-    <input type="checkbox" id="mobile-menu" class="mobile-menu-check">
-    <label for="mobile-menu" class="show-mobile-menu">Menu</label>
-    <ul class="header-nav nav-links">
-      {% include nav-links.html %}
-    </ul>
-  </nav>
-  <a href="/" class="header-logo">
-    <img src="/images/logo.png" alt="Learn Enough">
-  </a>
-</header>
+    <header>
+      <div class="bar">
+        <nav class="wrapper navbar navbar-expand-sm navbar-light bg-light">
+          <div class="logo">
+            <a href="index.html"><img src="images/CRRC-Logo-Black.png" alt=""/></a>
+          </div>
+          <div class="crrc">
+            <a href="index.html"><span>Cambridge Refugee Resettlement Campaign</span></a>
+          </div>
+          <div class="icons">
+            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+          </div>
+
+          <button class="navbar-toggler" id="nav-icon" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <!-- <span class="navbar-toggler-icon"></span> -->
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            {% include nav-links.html %}
+          </div>
+        </nav>
+      </div>
+    </header>
