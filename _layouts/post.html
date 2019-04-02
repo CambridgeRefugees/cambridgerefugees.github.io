@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="wrapper content">
+      <div class="hero-event">
+  {% if page.hero-image %}
+        <img src="/images/{{ page.hero-image }}"{% if page.hero-alt %} alt="{{ page.hero-alt }}"{% endif %} />
+  {% endif %}
+  {% if page.hero-title %}
+        <h3>{{ page.hero-title }}</h3>
+  {% endif %}
+      </div>
+      <div class="header">
+        <h2>{{ page.title }}</h2>
+        {% if page.date %}
+          <h3>{{ page.date | date: "%B %d, %Y" }}</h3>
+        {% endif %}
+      </div>
+      <div class="event-content">
+          <div class="col-md-12">
+
+            {{ content }}
+
+          </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>

@@ -13,22 +13,18 @@
         {{ content }}
      </div>
 
-      {% for post in site.categories.newslist %}
-      <article class="{{ post.type }}">
+      {% for post in site.categories.campaigns %}
+      <article class="news">
         <div class="col-sm-2"></div>
         <div class="content col-sm-6">
           <h2>{{ post.title }}</h2>
           <p>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
           <a class="btn-wrapper" href="{{ post.url }}"><button class="btn more-info">Read more</button></a>
         </div>
-        <div class="{% if post.type contains 'event' %}side{% else %}side-news{% endif %} event-date col-sm-2">
-          {% if post.type contains "event" %}
-          <h4>EVENT</h4>
-          {% else %}
-          <h4>NEWS</h4>
-          {% endif %}
+        <div class="side-news event-date col-sm-2">
+          <h4>CAMPAIGN</h4>
           <hr style="border-color:white;width:100%;">
-          <h4>{{ post.date | date: "%B %d, %Y" }}</h4>
+          <h4>{{ post.date  | date: "%B %d, %Y" }}</h4>
         </div>
         <div class="side col-sm-2"></div>
       </article>

@@ -63,6 +63,7 @@
     h4 {
       color: #ffffff;
       font-size: 18px;
+      margin-left: 0;
     }
   }
 
@@ -183,7 +184,7 @@
     width: 100% !important;
     max-width: 100% !important;
     h4 {
-      color: #000;
+      color: #fff;
     }
   }
 
@@ -370,9 +371,6 @@
       h3 {
         font-size: 24px;
         color: #ffffff;
-        border-bottom: 1px solid #ffffff;
-        padding-bottom: 15px;
-        margin-bottom: 19px;
       }
 
       h4 {
@@ -382,7 +380,7 @@
     }
 
     .side-news {
-      background-color: $section-background-color;
+      background-color: #ccc;
       padding: 18px 0 0 10px;
 
       h4 {
@@ -418,7 +416,7 @@
     }
 
     .side-news {
-      padding: 18px 0 0 22px !important;
+      padding: 20px 15px !important;
     }
   }
 }
