@@ -69,8 +69,10 @@
 @media only screen and (min-width: 480px) {
   .hero-event {
     img {
-      position: relative;
-      width: stretch;
+    position: relative;
+    width: -webkit-fill-available;
+    width: -moz-available;
+    width: stretch;
     }
   }
 }

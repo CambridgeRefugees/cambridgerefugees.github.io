@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="wrapper content">
+      <div class="hero-contact">
+  {% if page.hero-image %}
+        <img src="images/{{ page.hero-image }}"{% if page.hero-alt %} alt="{{ page.hero-alt }}"{% endif %} />
+  {% endif %}
+      </div>
+      <div class="contact-content">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="col-md-6">
+                <h2>{{ page.title }}</h2>
+
+                {{ content }}
+
+              </div>
+              <div class="col-md-6">
+                  <form action="https://formspree.io/ismael@design-monkey.co.uk" method="POST" class="contact-form">
+                      <div class="contact-row">
+                          <label for="Name">First name</label>
+                          <input type="text" name="Name" placeholder="Name" required>
+                          <span>Name</span>
+                      </div>
+                      <div class="contact-row">
+                          <label for="Email">Email address</label>
+                          <input type="email" name="Email" placeholder="Email address" required>
+                          <span>Email address</span>
+                      </div>
+                      <div class="contact-row">
+                          <div class="enquiry">
+                              <label for="Enquiry">Enquiry type</label>
+                              <select name="Enquiry" required>
+                                  <option selected disabled>Enquiry type</option>
+                                  <option value="enquiry">Enquiry</option>
+                                  <option value="enquiry2">Enquiry 2</option>
+                              </select>
+                          </div>
+                      </div>
+                      <div class="contact-row">
+                          <label for="Message">Enter your message</label>
+                          <textarea name="Message" rows="4" cols="50" placeholder="Your message" required></textarea>
+                          <span>Your message</span>
+                      </div>
+                      <button type="submit" class="btn">Send</button>
+                  </form>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <div class="col-md-12 social-section">
+      <div class="wrapper row">
+        <div class="col-md-6">
+          <a href="https://twitter.com/camrefugees"><i class="fab fa-twitter"></i></a>
+          <p>Follow us on Twitter:</p>
+          <p><a href="https://twitter.com/camrefugees">@CamRefugees</a></p>
+        </div>
+
+        <div class="col-md-6">
+          <a href="http://www.facebook.com/cambridgerefugees"><i class="fab fa-facebook-f"></i></a>
+          <p>Join <a href="http://facebook.com/groups/cambridgerefugees">our Facebook group</a></p>
+          <p>or follow <a href="http://www.facebook.com/cambridgerefugees">our Facebook page</a>.</p>
+          <p>Cambridge University students, staff and alumni can also join <a href="http://facebook.com/groups/cambridgeuniversityrefugees"> our Cambridge University group.</a></p>
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>
