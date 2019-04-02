@@ -28,7 +28,6 @@ h1 {
 
 h2 {
   font-size: 24px !important;
-  text-align:center;
 }
 
 h3 {
@@ -57,7 +56,7 @@ blockquote {
   line-height: 1.2;
   color: #666;
   text-align: justify;
-  margin: 0 !important;
+  margin: 30px 60px !important;
   width: fit-content;
 
   &:before {
@@ -92,4 +91,10 @@ cite {
 
 .grey {
   color: $footer-font-color;
+}
+
+ul {
+  li {
+    margin-left: 20px;
+  }
 }

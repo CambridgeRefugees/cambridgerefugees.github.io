@@ -1,120 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    {% include head.html %}
-  </head>
+  {% include head.html %}
 
   <body>
     {% include header.html %}
 
-    <section class="carousel-wrapper">
-      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="false">
-        <ol class="carousel-indicators">
-          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner" role="listbox">
-          <div class="carousel-item active">
-            <div class="carousel-image">
-              <img class="d-block w-100 image-float" src="images/carousel1.jpg" alt="First slide"/>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="carousel-image">
-              <img class="d-block w-100 image-float" src="images/carousel2.jpg" alt="Second slide"/>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="carousel-image">
-              <img class="d-block w-100 image-float" src="images/carousel3.jpg" alt="Third slide"/>
-            </div>
-          </div>
-            <div class="carousel-caption d-md-block">
-              <div class="caption-wrapper">
-                <p>
-                  Cambridge has always been ready and willing to welcome refugees
-                  in times of crisis, and there have rarely been been more people
-                  fleeing persecution and war. Offering sanctuary is a proud
-                  Cambridge tradition. We’re good at it, we always have been.
-                  </p>
-                  <p>
-                  The Cambridge Refugee Resettlement Campaign (CRRC) is a group of
-                  volunteers, initially set-up by Citizens UK, that works with
-                  other organisations in Cambridge to welcome refugees and those
-                  seeking asylum. We aim to build positive public opinion about
-                  refugees, and to enable the people of Cambridgeshire to
-                  volunteer to help those newly arrived in the area.in the area.
-                  </p>
-                  <p>
-                  We work with the local authority, landlords and refugees to
-                  enable the people of Cambridgeshire to volunteer their services
-                  and provisions to help those newly arrived in the area.
-                  </p>
-                  <a href="#">Click here for more information</a>
-              </div>
-            </div>
-        </div>
+    <div class="wrapper content">
+      <div class="hero-event">
+  {% if page.hero-image %}
+        <img src="images/{{ page.hero-image }}" alt="" />
+  {% endif %}
+  {% if page.title %}
+        <h3>{{ page.hero-title }}</h3>
+  {% endif %}
       </div>
-    </section>
-    <section class="signup-wrapper">
-        <div class="signup wrapper">
-            <p>
-              Our quarterly email newsletters will show you how we’ve been helping
-              refugees in Cambridge, and give you ways in which you can help.
-            </p>
-            <a href="#"><button class="btn signup-button">Sign Up</button></a>
+        <div class="header">
+          <h2>{{ page.title }}</h2>
+          {% if page.date %}
+            <h3>{{ page.date }}</h3>
+          {% endif %}
         </div>
-    </section>
-    <section class="supports-wrapper">
-        <div class="supports wrapper">
-            <h2>Who Supports Us?</h2>
-            <div class="row">
-                <div class="col">
-                    <div class="picture">
-                        <a href="#"><img src="images/generic-avatar.png" alt=""/></a>
-                    </div>
-                    <a href="#"><p>Daniel Zeichner</p>
-                    <p>Current MP for Cambridge</p></a>
-                </div>
-                <div class="col">
-                    <div class="picture">
-                        <a href="#"><img src="images/generic-avatar.png" alt=""/></a>
-                    </div>
-                    <a href="#"><p>Julian Huppert</p>
-                    <p>(former MP for Cambridge)</p></a>
-                </div>
-                <div class="col">
-                    <div class="picture">
-                        <a href="#"><img src="images/generic-avatar.png" alt=""/></a>
-                    </div>
-                    <a href="#"><p>Aidan van de Weyer</p>
-                    <p>(South Cambridgeshire District Councillor)</p></a>
-                </div>
-                <div class="col">
-                    <div class="picture">
-                        <a href="#"><img src="images/generic-avatar.png" alt=""/></a>
-                    </div>
-                    <a href="#"><p>Rt Revd Stephen Conway</p>
-                    <p>(Bishop of Ely)</p></a>
-                </div>
-                <div class="col">
-                    <div class="picture">
-                        <a href="#"><img src="images/generic-avatar.png" alt=""/></a>
-                    </div>
-                    <a href="#"><p>Rt Revd David Thomas</p>
-                    <p>(Bishop of Huntingdon)</p></a>
-                </div>
+        <div class="event-content">
+            <div class="col-md-12">
+
+              {{ content }}
+
+            </div>
         </div>
-    </section>
-    <section class="supports-background">
-      <div class="section-wrapper">
-        <div class="more">
-          <p><b>200 volunteers!</b> Would you like to help?</p>
-          <a href="#">Find out more</a>
-        </div>
-      </div>
-    </section>
+    </div>
 
     {% include footer.html %}
   </body>
