@@ -6,11 +6,6 @@ $main-font-size: 16px;
 
 $crrc-font-size: 17px;
 
-h2 {
-  font-size: 24px !important;
-  font-weight: 700 !important;
-}
-
 h1,
 h2,
 h3,
@@ -27,7 +22,8 @@ h1 {
 }
 
 h2 {
-  font-size: 24px !important;
+  font-size: 24px;
+  font-weight: 700 !important;
 }
 
 h3 {
@@ -96,5 +92,17 @@ cite {
 ul {
   li {
     margin-left: 20px;
+  }
+}
+
+.anchor-link {
+  font-style: inherit;
+  color: inherit !important;
+  font-weight: inherit;
+  &:hover {
+    text-decoration: none !important;
+    font-style: inherit;
+    color: inherit !important;
+    font-weight: inherit;
   }
 }
