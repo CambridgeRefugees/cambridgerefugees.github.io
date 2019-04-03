@@ -6,6 +6,6 @@ description: Current list of jobs that need doing at the Cambridge Refugee Reset
 
 ## Opportunities to get involved
 
-If you'd like to help with the work of the Cambridge Refugee Resettlement Campaign. Help us by offering time, money or pledging to help refugees!
+We always need enthusiastic people to volunteer for the organization. We can't offer money but it's extremely rewarding to see your work directly helping local refugees. You will meet a bunch of fascinating people if you work with us. We are also very happy to write recommendation letters and give out certificates for the soft skills you acquire during your work with us if this is of help to you.
 
-Below, we list the posts that we're currently looking for specific help with. If you'd like to find out more and even volunteer to fill a post, the details are in the each listing.
+Please note that taking on a permanent volunteering role requires you to work about 4 hours a week and that you should be able to make this time commitment for at least half a year - we want to avoid too much flux.
