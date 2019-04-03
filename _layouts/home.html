@@ -5,7 +5,97 @@
   <body>
     {% include header.html %}
 
-    {{ content }}
+    <section class="carousel-wrapper">
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="false">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+          <div class="carousel-item active">
+            <div class="carousel-image">
+              <img class="d-block w-100 image-float" src="images/carousel1.jpg" alt="First slide"/>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="carousel-image">
+              <img class="d-block w-100 image-float" src="images/carousel2.jpg" alt="Second slide"/>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="carousel-image">
+              <img class="d-block w-100 image-float" src="images/carousel3.jpg" alt="Third slide"/>
+            </div>
+          </div>
+            <div class="carousel-caption d-md-block">
+              <div class="caption-wrapper">
+
+{{ content }}
+
+              </div>
+            </div>
+        </div>
+      </div>
+    </section>
+    <section class="signup-wrapper">
+        <div class="signup wrapper">
+            <p>
+              Our quarterly email newsletters will show you how we’ve been helping
+              refugees in Cambridge, and give you ways in which you can help.
+            </p>
+            <a href="#"><button class="btn signup-button">Sign Up</button></a>
+        </div>
+    </section>
+    <section class="supports-wrapper">
+        <div class="supports wrapper">
+            <h2>Who Supports Us?</h2>
+            <div class="row">
+                <div class="col">
+                    <div class="picture">
+                        <a href="#"><img src="images/generic-avatar.png" alt=""/></a>
+                    </div>
+                    <a href="#"><p>Daniel Zeichner</p>
+                    <p>Current MP for Cambridge</p></a>
+                </div>
+                <div class="col">
+                    <div class="picture">
+                        <a href="#"><img src="images/generic-avatar.png" alt=""/></a>
+                    </div>
+                    <a href="#"><p>Julian Huppert</p>
+                    <p>(former MP for Cambridge)</p></a>
+                </div>
+                <div class="col">
+                    <div class="picture">
+                        <a href="#"><img src="images/generic-avatar.png" alt=""/></a>
+                    </div>
+                    <a href="#"><p>Aidan van de Weyer</p>
+                    <p>(South Cambridgeshire District Councillor)</p></a>
+                </div>
+                <div class="col">
+                    <div class="picture">
+                        <a href="#"><img src="images/generic-avatar.png" alt=""/></a>
+                    </div>
+                    <a href="#"><p>Rt Revd Stephen Conway</p>
+                    <p>(Bishop of Ely)</p></a>
+                </div>
+                <div class="col">
+                    <div class="picture">
+                        <a href="#"><img src="images/generic-avatar.png" alt=""/></a>
+                    </div>
+                    <a href="#"><p>Rt Revd David Thomas</p>
+                    <p>(Bishop of Huntingdon)</p></a>
+                </div>
+        </div>
+    </section>
+    <section class="supports-background">
+      <div class="section-wrapper">
+        <div class="more">
+          <p><b>200 volunteers!</b> Would you like to help?</p>
+          <a href="#">Find out more</a>
+        </div>
+      </div>
+    </section>
 
     {% include footer.html %}
   </body>
