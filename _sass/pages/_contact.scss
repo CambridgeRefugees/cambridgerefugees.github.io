@@ -60,6 +60,8 @@ h2 {
     }
 
     select {
+      -webkit-appearance: none;
+      -moz-appearance: none;
       appearance: none;
       width: 100%;
 
