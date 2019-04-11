@@ -33,4 +33,4 @@ So we need your help.
 
 We must do everything we can to persuade Cambridgeshire County Council to do much more to find foster placements for child refugees. Your help can make a real difference to the lives of extremely vulnerable children.
 
-To get involved in our campaign NOW, please [email us](mailto:info@cambridgerefugees.org) or [click here]({{ site.baseurl }}{% link get-involved.md %}) to register interest in fostering or sign up as a campaigner.
+To get involved in our campaign NOW, please [email us](mailto:info@cambridgerefugees.org) to register interest in fostering or sign up as a campaigner.
