@@ -1,6 +1,6 @@
 - Daniel Zeichner, MP of Cambridge
 - The Rt Revd Stephen Conway, Bishop of Ely
-- The Rt Revd David Thomson, Bishop of Huntingdon, who said:
+- The Rt Revd David Thomson, ex-Bishop of Huntingdon, who said:
 
 > It’s great to see local people acting together to help welcome, house and support refugees arriving in this country from the Middle East. Bishop Stephen and I in the Diocese of Ely (covering Cambridgeshire and West Norfolk) have written to all our churches encouraging them to act wherever they can. Our key messages are:
 > 1.  Act in partnership.
