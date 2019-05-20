@@ -14,5 +14,4 @@
 
 > It is awful to see the plight of refugees fleeing persecution in Syria and elsewhere, and to see the lengths they will go to and risks they will take to escape. We are fortunate here in Cambridge and the UK to be able to help people desperately in need, and we have a moral obligation to help. I know people as open-minded and generous as so many in Cambridge are can act, and I hope we will act together to make a difference.
 
-- Rev Bridget Baguley, Curate at All Saints Church, Cottenham and All Saints Church, Rampton
 - Dr Aidan Van de Weyer, South Cambridgeshire District Councillor
