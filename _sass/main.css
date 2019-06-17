@@ -1074,12 +1074,12 @@ a:active {
   font-size: 14px;
 }
 
-.contact-form .enquiry {
+.contact-form .subject {
   position: relative;
   width: 100%;
 }
 
-.contact-form .enquiry:after {
+.contact-form .subject:after {
   font-family: "Font Awesome 5 Free";
   background: #f1652a;
   color: #fff;

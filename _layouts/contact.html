@@ -21,33 +21,33 @@
 
               </div>
               <div class="col-md-6">
-                  <form action="https://formspree.io/ismael@design-monkey.co.uk" method="POST" class="contact-form">
+                  <form action="https://formspree.io/john.pettigrew@cambridgerefugees.org" method="POST" class="contact-form">
                       <div class="contact-row">
-                          <label for="Name">First name</label>
-                          <input type="text" name="Name" placeholder="Name" required>
-                          <span>Name</span>
+                          <label for="Name">Your name</label>
+                          <input type="text" name="Name" placeholder="Your name" required autofocus="true" tabindex="1">
+                          <span>Your name</span>
                       </div>
                       <div class="contact-row">
-                          <label for="Email">Email address</label>
-                          <input type="email" name="Email" placeholder="Email address" required>
-                          <span>Email address</span>
+                          <label for="Email">Your email</label>
+                          <input type="email" name="Email" placeholder="Your email" required tabindex="2">
+                          <span>Your email</span>
                       </div>
                       <div class="contact-row">
-                          <div class="enquiry">
-                              <label for="Enquiry">Enquiry type</label>
-                              <select name="Enquiry" required>
-                                  <option selected disabled>Enquiry type</option>
-                                  <option value="enquiry">Enquiry</option>
-                                  <option value="enquiry2">Enquiry 2</option>
+                          <div class="subject">
+                              <label for="Subject">Subject</label>
+                              <select name="Subject" required>
+                                <option value="general" selected>General enquiry</option>
+                                <option value="volunteer">Volunteering</option>
+                                <option value="donation">Donation</option>
                               </select>
                           </div>
                       </div>
                       <div class="contact-row">
-                          <label for="Message">Enter your message</label>
-                          <textarea name="Message" rows="4" cols="50" placeholder="Your message" required></textarea>
-                          <span>Your message</span>
+                          <label for="Message">Write your message</label>
+                          <textarea name="Message" rows="4" cols="50" placeholder="What do you want to talk to us about?" required tabindex="3"></textarea>
+                          <span>What do you want to talk to us about?</span>
                       </div>
-                      <button type="submit" class="btn">Send</button>
+                      <button type="submit" class="btn" tabindex="4">Send</button>
                   </form>
               </div>
             </div>
