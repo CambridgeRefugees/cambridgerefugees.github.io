@@ -11,7 +11,7 @@ hero-title: Landlords
 
 The 100 Syrian refugees that the City Council has committed to resettling in Cambridge are currently in UNHCR refugee camps and can only be brought to the UK once the City Council has secured housing for them. Therefore, we urgently need landlords to step forward and offer their properties to local authorities for the purpose of protecting and sheltering Syrian refugees under the Government’s vulnerable persons’ resettlement scheme. This doesn’t mean giving up the property for free; landlords will be eligible to receive local housing allowance rates. Lets need to be for a minimum of 2 years, but are ideally for longer so resettled refugees have more stability. Under this scheme the property needs a separate entrance, and to be a 3 or 4 bedroom property. It is very unlikely that we will be able to use a 2 bedroom property. The family will receive resettlement support from the Council and from Cambridge Refugee Resettlement Campaign, so a landlord would not have support responsibilities.
 
-If you are a landlord and would like to offer your property, [email us](mailto:contactcrrc@gmail.com).
+If you are a landlord and would like to offer your property, [email us](mailto:info@cambrigerefugees.org).
 
 If you have a spare room to offer, we only need those rarely. Please consider signing up to Rooms for Refugees which matches spare rooms and refugees that are in need of them
 
@@ -36,4 +36,3 @@ Under the Syrian vulnerable persons relocation scheme a refugee will be entitled
 4. The Home Office will require some kind of local authority oversight of the management of the property and, to this end, the Council’s social lettings agency, Town Hall Lettings (THL), is best placed to manage the tenancy.  At a minimum this will involve setting up the tenancy, collecting the rent and dealing directly with the tenants in relations to arrears, repairs and other day-to-day matters. It would also involve acting on the landlord’s behalf regarding the conduct of the tenancy. To cover this, Town Hall Lettings will need to charge a fee for management set at 5 percent of the rent.
 
 5. The property should also be in a location that is central to support services, schools and medical centres and with good public transport connections.
-

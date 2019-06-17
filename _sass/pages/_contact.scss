@@ -60,14 +60,10 @@ h2 {
     }
 
     select {
+      -webkit-appearance: none;
+      -moz-appearance: none;
       appearance: none;
       width: 100%;
-
-      option {
-        &:first-child {
-          display: none;
-        }
-      }
     }
 
     span {
@@ -114,7 +110,7 @@ h2 {
     }
   }
 
-  .enquiry {
+  .subject {
     position: relative;
     width: 100%;
 

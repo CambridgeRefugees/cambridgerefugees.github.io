@@ -7,21 +7,21 @@ hero-alt: Generic background image of a hand drawing with crayons
 hero-title: About us
 ---
 
-We are a group of volunteers, initially set-up by [Citizens UK](http://www.refugees-welcome.org.uk), helping other organizations working within Cambridge to welcome refugees and those seeking asylum, fleeing persecution and war. We aim to positively influence public opinion on refugees, enabling the people of Cambridgeshire to volunteer their services and provisions to help those newly arrived in the area.
+CRRC is a registered charity for the purpose of supporting the resettlement of refugees in the Cambridge area. We are a volunteer-run group of Cambridgeshire residents which was formed in 2015 at the height of the current migrant crisis, when the media was filled with images of the misery of the camps and the tragedy of failed attempts to reach them. We wanted to help by welcoming refugees into our community. Originally focussed on fundraising and lobbying local government, we were helped to organise by [Citizens UK](http://www.refugees-welcome.org.uk) and became a registered charity in 2017.
 
-- We are in close working relationship with the County Council, City Council, Cambridge Calais Refugee Action Group, Cambridge Ethnic Community Forum and City of Sanctuary.
-- We collect donations and pledges of services, household goods, clothing and toys to add to the provision offered by the local council.
-- We inform faith groups, community groups, politicians and other influencers about the refugee crisis and engage them in our projects. Using conventional and social media channels, we campaign for the UK in general and Cambridgeshire in particular to be a safe haven for refugees.
-- We provide welcome packs to refugee families, including familiar food, warm clothing, toys and a welcome card.
-- We organize social events for refugee families in Cambridgeshire.
-- We liaise between the council and volunteer English teachers and translators.
-- We look for additional, privately owned properties, to add to the houses offered to refugee families.
-- We explore fostering opportunities for unaccompanied refugee and asylum seeking children.
-- We co-organize fund-raising events.
-- We support related campaigns run by students and staff at Cambridge University and Anglia Ruskin University.
+We provide a wide range of practical support to resettled refugee families and work closely with the Cambridge City and Cambridgeshire County Councils and other local stakeholders. We advocate on behalf of our beneficiaries for assistance with housing, healthcare and education. This means:
+
+- seeking out private landlords willing to accept Council rent rates;
+- sourcing items of furniture, household equipment and bicycles according to identified needs;
+- helping new families to settle in by tidying gardens and redecorating homes;
+- chaperoning beneficiaries at medical appointments and offering a doula service for expectant mothers;
+- providing one-to-one help with homework for school-age children;
+- running English for Speakers of Other Languages classes with childcare for the benefit of mothers with young children;
+- organising programmes of outings and activities during the school holidays;
+- running an after-school Code Club for refugee children;
+- partnering with individuals and groups able to assist with Arabic translation and learning;
+- getting the families together once a month for a social event where they can meet each other and our volunteers;
+- arranging counselling and advice for beneficiaries;
+- giving talks and presentations about refugee issues, particularly at local schools.
 
 Follow [@CamRefugees](https://twitter.com/camrefugees) and join [our Facebook group](https://www.facebook.com/groups/cambridgerefugees/) for regular updates.
-
-### Supporters
-
-{% include supporters.md %}
