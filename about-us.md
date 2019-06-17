@@ -25,7 +25,3 @@ We provide a wide range of practical support to resettled refugee families and w
 - giving talks and presentations about refugee issues, particularly at local schools.
 
 Follow [@CamRefugees](https://twitter.com/camrefugees) and join [our Facebook group](https://www.facebook.com/groups/cambridgerefugees/) for regular updates.
-
-### Supporters
-
-{% include supporters.md %}
