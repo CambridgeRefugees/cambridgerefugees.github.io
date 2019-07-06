@@ -7,91 +7,134 @@ hero-alt:
 hero-title: Privacy policy
 ---
 
-### 1 Scope of Policy
+Cambridge Refugee Resettlement Campaign is a UK registered charity that supports refugees, those seeking asylum, and those fleeing persecution or war. We collect your data to help us achieve our  mission, and we consider and respect your privacy rights every step of the way.
 
-This Policy covers all data relating to individuals with whom we have contact Subject Data held by CRRC either in paper or electronic format and the way it is handled.
+We want to be completely open about what we are doing and why.  The purpose of this policy is to explain how CRRC collect and use the personal information you provide to us, whether online, via phone, email, in letters, in any other correspondence, or even from other people.
 
-### 2 Introduction
+We ensure that we use your information in accordance with all applicable laws concerning the protection of personal information. This policy explains:
 
-This policy sets out in a clear and concise way to our members, supporter, beneficiaries and other contacts how we will handle data within our organisation.
+*   Who are we
+*   What information we collect about you
+*   Why we collect that information
+*   How we collect and store that information
+*   What we use your information for
+*   On what legal basis we use your information
+*   Who we share your information with
+*   How long we keep your information for
+*   Your rights
+*   Information about cookies
+*   About changes to our privacy policy
+*   How to contact us about your data
 
-We are committed to
+## WHO WE ARE
 
-- Holding information in a safe and secure manner and only using the information for the purpose for which it was given.
-- Keeping data up to date and accurate.
-- Removing out of date data from our records and disposing of it securely.
-- Reviewing our policy on a regular basis to ensure that it still meets the needs of the organisation and its members.
+Cambridge Refugee Resettlement Campaign (CRRC) is a Cambridge and Cambridgeshire based organisation, founded in September 2015 as a community group and registered with the Charity Commission as CIO (Foundation) on 2 May 2017.
 
-### 3 Data Collection
+CRRC is entirely volunteer-led, and relies on volunteers’ time and donations to deliver its statement of purpose. CRRC is led by the Board of Trustees, and there is a core group of volunteers who coordinate the different areas in subgroups, or are involved in behind-the-scenes operations.
 
-### 3.1 Why we collect data
+## WHAT INFORMATION WE COLLECT ABOUT YOU
 
-We collect information:
+We only collect data that is necessary for us to achieve our mission, to run our organisation, and to provide our services and support in the best and most efficient way possible. We only collect data that you would reasonably expect us to collect and process without causing you any unjustified harm. This may include: full name, contact details, date of birth, CVs, criminal records, bank account details, interests, personal circumstances, and so on.
 
-- which we are required to report to funders under grant or Service Level Agreements.
-- on our members, supporters, beneficiaries and other contacts to help us run our organisation in the best possible way.
+When you visit our website, we may collect technical information relating to your use of our website, including your browser type or the Internet Protocol (IP) address used to connect your computer to the internet. For more on this, see our separate [Cookie Policy](/cookies.html).
 
-### 3.2 How we collect data
+As the information we collect about you will be stored on our IT infrastructure, it may also be shared with our data processors who provide email, relationship management, anonymous analytics, document management, and storage services to us (see the section “How we collect and store your information” below.
 
-We collect information from:
+## WHY WE COLLECT YOURTHAT INFORMATION
 
-- Application Forms
-- Contacts we make at meetings, from emails, social media, sign-up forms, word of mouth
+We collect your information:
 
-### 3.3 The Data Controller
+*   When you become a volunteer
+*   When you support us by:
+    *   Signing up to attend or take part in an event
+    *   Signing up to gift aid
+    *   Giving us a donation
+*   When you visit our website
+*   When you sign up to receive our newsletters or blog updates
 
-The designated Data Controller (DC) will deal with the implementation of the agreed policy and day to day matters.
+If you want to understand more about why we collect your data, please contact us at [info@cambridgerefugees.org](mailto:info@cambridgerefugees.org).
 
-CRRC has a designated Data Controller (DC). In their absence, the Chair of the Management Committee (MC) may be consulted.
+## HOW WE COLLECT AND STORE YOURTHAT INFORMATION
 
-CRRC’s designated DC is a member of the MC.
+We collect information from application forms, emails, social media, sign-up forms, events and word of mouth. We obtain your personal data by lawful and fair means, and with your knowledge and consent.
 
-### 4 Storing and Processing data
+Most data is stored electronically on password-protected devices and in secure online systems. Your data may be stored in the following online systems:
 
-Our policy is to store all data in a secure manner and to dispose of data no longer required in a secure way.  We will process data in a way which is consistent with the aims of our organisation and the purpose for which the data was given.
+*   Google Drive (see [Google Privacy Policy](https://policies.google.com/privacy?hl=en-GB&gl=uk))
+*   MailChimp (see [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/))
+*   Trello (see [Trello Privacy Policy](https://trello.com/privacy))
+*   The Co-operative Bank (see [Co-operative Bank Privacy Policy](https://www.co-operativebank.co.uk/assets/pdf/bank/global/privacy-notice.pdf)).
 
-Data received in paper form will be handed to the DC for electronic storage and paper copies will be destroyed.
+Where possible, data received in paper form is turned into an electronic format and paper copies are destroyed. If not possible, documents in paper form are kept securely in a locked cabinet.
 
-Electronic data will be password protected and stored on Google Drive ([www.google.com/policies/privacy/](http://www.google.com/policies/privacy/)).
+You should be aware that the use of the internet is not entirely secure, and although we will do our best to protect your personal data, we cannot guarantee the security or integrity of any personal information that is transferred from you or to you via the internet. Any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-### 5 Retention of data
+## WHAT WE USE YOUR INFORMATION FOR
 
-CRRC will keep some forms of information longer than others. Data will be retained until required or until the MC decides to erase the data or until the organisation dissolves.
+We collect your data on the occasions listed thein section 3, “Why we collect yourthat Information”.
 
-### 6 Processing sensitive information
+We use the information we have collected to deliver to you 1) information and services connected with the mission of Cambridge Refugee Resettlement Campaign, and 2) any newsletters you subscribe to.
 
-Sometimes it is necessary to process sensitive personal information such as family details. This is done to ensure that CRRC can operate to the best of its abilities. CRRC will only use such information in the protection of the health and safety of the individual, but will need consent to process - for example, in the event of a medical emergency.
+Where we have receivedasked for your consent, we may use your image in our materials on our website, at  events, and for other promotional purposes.
 
-Because this information is considered sensitive, and it is recognised that the processing of it may cause particular concern or distress to affected individuals, they will be asked to give express consent for CRRC to do this
+## ON WHAT LEGAL BASIS WE USE YOUR INFORMATION
 
-### 7 Disclosure
+We have a lawful basis for collecting your data as set out in the section 3, “Why we collect yourthat Information”, and for using the data for the purposes described in the section 5, “What we use your information for”.
 
-It is our policy not to disclose any information to third parties unless we have the subject’s permission to do so OR the information is being passed solely for the third party to undertake work on our behalf and for no other purpose OR the information is already in the public domain OR we are legally obliged to do so.
+Lawful basis may include:
 
-Sensitive Information will not normally be disclosed.  Where information is being passed to a third party undertaking work on behalf of the organisation we will advise that the third party reviews the [County’s safeguarding policy](http://www.cambridgeshire.gov.uk/info/20166/working_together/582/adult_safeguarding_policy_and_procedures/).
+*   Where it is within our legitimate interests to process your information to further our mission, for example, for internal administrative purposes relating to volunteers. We know that under this basis of processing, we have a heightened responsibility to keep your interests central and to make sure that your rights as a data subject override our legitimate interest.
+*   Where we need to comply with a legal obligation.
+*   Where processing is necessary for the performance of a contract to which you are a party. If you fail to provide this information, we may be unable to perform the contract.
+*   Where we have your consent. If we want to use your image for the purposes of our mission, then we will ask you to consent to that use. Very occasionally, we will also process other areas of sensitive personal data, but we will always ask for your consent to do this.
 
-### 8 Rights of the individual to access information
+## WHO WE SHARE YOUR INFORMATION WITH
 
-Members, supporter, beneficiaries and other contacts of CRRC have the right to access any personal data that is being kept about them either on computer or in other types of files. Should any person wish to exercise this right they should contact the Data Controller.
+We never exchange or sell your information to any third party.
 
-In order to gain access, a request should be made in writing to the Data Controller.
+We occasionally use third parties outside of CRRC to process your personal data on our behalf. These include:
 
-CRRC aims to comply with requests for access to personal information as quickly as possible, but will ensure that it is provided within 20 days.
+*   Google Drive (see [Google Privacy Policy](https://policies.google.com/privacy?hl=en-GB&gl=uk))
+*   MailChimp (see [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/))
+*   Trello (see [Trello Privacy Policy](https://trello.com/privacy))
+*   The Co-operative Bank (see [Co-operative Bank Privacy Policy](https://www.co-operativebank.co.uk/assets/pdf/bank/global/privacy-notice.pdf))
+*   Zapier (see [Zapier Privacy Policy](https://zapier.com/privacy/))
 
-### 9 Inaccurate Data
+## HOW LONG WE KEEP YOUR INFORMATION FOR
 
-Where an individual advises that their data is inaccurate we will ensure the inaccuracy is corrected within 7 working days.
+Your data will only be retained for as long as it is needed in relation to the purposes for which it was originally collected. Some forms of information will be kept longer than others.
 
-### 10 Complaints
+If no longer needed, your data will be deleted in a secure manner from all devices and systems on which it is stored.
 
-Any complaints about the way we handle or use data need to be submitted in writing to the Secretary of the CRRC, and will be discussed by the MC at the subsequent meeting.
+## YOUR RIGHTS
 
-### 11 Compliance
+Right of access — you have a right to ask us to confirm whether we are processing information about you, and to request access to this information.
 
-Compliance with the Data Protection Act 1998 is the responsibility of all members, supporters, beneficiaries and other contacts of CRRC. Any deliberate breach of the Data Protection Policy may lead to disciplinary action being taken, or access to CRRC facilities being withdrawn, or even a report to the police.
+Right to rectification — you may ask us to rectify information you think is inaccurate, and you may also ask us to remove information which is inaccurate or incomplete. If you inform us that your personal data is inaccurate, we will inform relevant third parties with whom we have shared your data so that they may update their own records.
 
-Any questions or concerns about the interpretation or operation of this Policy should be taken up with the Data Controller.
+Right of portability — you have a right to obtain your personal data from us and reuse it for your own purposes.
 
-Ratified by the MC on:  30.11.2016
+Right to be forgotten — you have a right to seek the erasure of your data, for example where it is no longer necessary for us to continue holding or processing your personal data. This right is not absolute, as we may need to continue processing this information to comply with a legal obligation.
 
-To be reviewed on 29.11.2017 or as legislation changes
+Right to restriction — you have a right to ask us to restrict our processing of your information if:
+
+*   You contest its accuracy and we need to verify whether it is accurate.
+*   You ask us to restrict use of it instead of deleting it.
+*   We no longer need the information for the purpose of processing, but you need it to establish or defend legal claims.
+*   You have objected to processing of your information being necessary for the purposes of our legitimate interests. The restriction would apply while we carry out a balancing act between your rights and our legitimate interests. If you exercise your right to restrict processing, we would still need to process your information for the purpose of exercising or defending legal claims, for the purpose of protecting the rights of another person, or for public interest reasons.
+
+You can always unsubscribe from any mailing list you are included on. You can do so by contacting us at [info@cambridgerefugees.org](mailto:info@cambridgerefugees.org).
+
+Our use of your data processed in the UK is regulated by the Information Commissioner. You have a right to report any of your concerns about our use of your data to the Information Commissioner’s Office. You may do so by contacting them on [ ico.org.uk/concerns](https://ico.org.uk/concerns/) or by calling their helpline at +44 303 123 1113.
+
+## INFORMATION ABOUT COOKIES
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them, see our cookie policy.
+
+## ABOUT CHANGES TO OUR PRIVACY POLICY
+
+Any changes we may make to our privacy policy in the future will be posted here and, where appropriate, sent to you by email. Please check the website regularly to see any updates or changes to our privacy policy. By continuing to use our website, you will be deemed to have accepted such changes.
+
+## HOW TO CONTACT US ABOUT YOUR DATA
+
+Data rights are human rights and we are determined to fairly and fully honour yours. You can unsubscribe at any time or just get in touch with any questions, comments, or instructions regarding your information by writing to info@cambridgerefugees.org or writing to: CRRC, 7 Drosier Road, Cambridge CB1 2EY.

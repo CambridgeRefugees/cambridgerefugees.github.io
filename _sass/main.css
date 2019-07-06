@@ -144,10 +144,6 @@ a:hover {
   text-decoration: none !important;
 }
 
-.wrapper {
-  max-width: 1440px !important;
-}
-
 @media print {
   .icons {
     -webkit-box-orient: horizontal !important;
