@@ -25,7 +25,7 @@ We may also store information in your browser using the local storage facility i
 
 ## What cookies do you use?
 
-The CRRC website does not use cookies. When you follow links from other routes (such as from our mailing-list emails), third parties (such as our mailing-list provider MailChimp) may use cookies, and you should refer to their separate policies. See the separate Privacy Policy for a list of organisations with whom we may share your data.
+The CRRC website does not use cookies. When you follow links from other routes (such as from our mailing-list emails), third parties (such as our mailing-list provider MailChimp) may use cookies, and you should refer to their separate policies. See the separate [Privacy Policy](/privacy.html) for a list of organisations with whom we may share your data.
 
 
 ## How do I block cookies?
