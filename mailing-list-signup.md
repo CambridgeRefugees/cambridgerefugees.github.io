@@ -1,9 +1,16 @@
+---
+layout: default
+title: Sign up for the mailing list
+description: Get quarterly news updates from the Cambridge Refugee Resettlement Campaign
+hero-image: contact-banner.jpg
+hero-alt: Hand placing envelopes into a post box
+hero-title: 
+---
+
 <!-- Begin Mailchimp Signup Form -->
 <link href='//cdn-images.mailchimp.com/embedcode/classic-10_7.css' rel='stylesheet' type='text/css'>
 <style type='text/css'>
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <style type='text/css'>
 	#mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px;}
@@ -14,8 +21,7 @@
 <div id='mc_embed_signup'>
 <form action='https://cambridgerefugees.us12.list-manage.com/subscribe/post?u=e1894556b92274043a0a02609&amp;id=721d33a84c' method='post' id='mc-embedded-subscribe-form' name='mc-embedded-subscribe-form' class='validate' target='_blank' novalidate>
     <div id='mc_embed_signup_scroll'>
-	<h2>Subscribe</h2>
-<div class='indicates-required'><span class='asterisk'>*</span> indicates required</div>
+<div class='indicates-required'><span class='asterisk'>*</span> required field</div>
 <div class='mc-field-group'>
 	<label for='mce-EMAIL'>Email Address  <span class='asterisk'>*</span>
 </label>
@@ -31,15 +37,11 @@
 </div>
 <div id='mergeRow-gdpr' class='mergeRow gdpr-mergeRow content__gdprBlock mc-field-group'>
     <div class='content__gdpr'>
-        <label>Marketing Permissions</label>
-        <p>Cambridge Refugee Resettlement Campaign will use the information you provide on this form to be in touch with you and to provide updates and marketing. Please let us know all the ways you would like to hear from us:</p>
+        <p>We will use the information you provide on this form to provide updates on our work. Please confirm that you're happy for us to do this by selecting this box:</p>
         <fieldset class='mc_fieldset gdprRequired mc-field-group' name='interestgroup_field'>
-		<label class='checkbox subfield' for='gdpr_11325'><input type='checkbox' id='gdpr_11325' name='gdpr[11325]' value='Y' class='av-checkbox '><span>Email</span> </label><label class='checkbox subfield' for='gdpr_11329'><input type='checkbox' id='gdpr_11329' name='gdpr[11329]' value='Y' class='av-checkbox '><span>Direct Mail</span> </label><label class='checkbox subfield' for='gdpr_11333'><input type='checkbox' id='gdpr_11333' name='gdpr[11333]' value='Y' class='av-checkbox '><span>Customized online advertising</span> </label>
+		<label class='checkbox subfield' for='gdpr_11325'><input type='checkbox' id='gdpr_11325' name='gdpr[11325]' value='Y' class='av-checkbox '><span>Yes, please contact me by email</span> </label>
         </fieldset>
-        <p>You can change your mind at any time by clicking the unsubscribe link in the footer of any email you receive from us, or by contacting us at info@cambridgerefugees.org. We will treat your information with respect. For more information about our privacy practices please visit our website. By clicking below, you agree that we may process your information in accordance with these terms.</p>
-    </div>
-    <div class='content__gdprLegal'>
-        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href='https://mailchimp.com/legal/' target='_blank'>Learn more about Mailchimp's privacy practices here.</a></p>
+        <p>You can change your mind at any time by clicking the unsubscribe link in the footer of any email you receive from us, or by <a href="mailto:info@cambridgerefugees.org">contacting us</a>. We will treat your information with respect.</p>
     </div>
 </div>
 	<div id='mce-responses' class='clear'>
