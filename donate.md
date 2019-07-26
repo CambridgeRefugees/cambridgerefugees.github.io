@@ -11,13 +11,11 @@ hero-title: Donate
 
 We rely entirely on the generosity of our supporters to continue the work that we do for refugees resettling here in Cambridge. As CRRC is run entirely by volunteers from their own homes we have no staff, office or administration costs.  Your donation will go directly towards helping the refugee families themselves.
 
-To make a donation:
+<a href="https://donate.kindlink.com/cambridge-refugee-resettlement-campaign/2255"><button class="btn donate">Click here to donate using KindLink!</button></a>
 
-<a href="#"><button class="btn donate">Click here!</button></a>
+To boost your donation by 25%, please select the Gift Aid option for your donation. We can reclaim 25p on every pound you donate from the tax you have paid to add to your donation!
 
-To boost your donation by 25%, please complete our [gift aid declaration](https://drive.google.com/file/d/1eje4Qo9vHNYMxbXFKfTPF0UN6G_A2zZp/view) and return it to us via [email](mailto:info@cambridgerefugees.org). Gift Aid is reclaimed by the charity from the tax you pay for the current tax year. By filling in the form, you allow us to claim 25p Gift Aid on every dollar you donate.
-
-Please notify us if you wish to cancel this declaration, change your name or home address, or if you no longer pay sufficient tax on your income and/or capital gains. If you pay Income Tax at the higher or additional rate and want to receive the additional tax relief due to you, you must include all your Gift Aid donations on your Self-Assessment tax return or ask HM Revenue and Customs to adjust your tax code.
+If you pay Income Tax at the higher or additional rate and want to receive the additional tax relief due to you, you must include all your Gift Aid donations on your Self-Assessment tax return or ask HM Revenue and Customs to adjust your tax code. Please notify us if you wish to cancel this declaration, change your name or home address, or if you no longer pay sufficient tax on your income and/or capital gains.
 
 ### Donate items
 
