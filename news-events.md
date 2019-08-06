@@ -6,4 +6,4 @@ description: News and forthcoming events from the Cambridge Refugee Resettlement
 
 ## News and events
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo conset.
+The Cambridge Refugee Resettlement Campaign arranges and participates in a range of activities through the year, and of course there is regularly news that relates to our activities. This page lists some of these news items and events. If you hear of something you think we should know, please do [get in touch](/contact.html)!
