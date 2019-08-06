@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About us
-description: The Cambridge Refugee Resettlement Campaign is a group of volunteers, initially set-up by Citizens UK, helping other organizations working within Cambridge to welcome refugees and those seeking asylum, fleeing persecution and war. We aim to positively influence public opinion on refugees, enabling the people of Cambridgeshire to volunteer their services and provisions to help those newly arrived in the area.
+description: The Cambridge Refugee Resettlement Campaign is a group of volunteers, initially set up by Citizens UK, helping other organizations working within Cambridge to welcome refugees and those seeking asylum, fleeing persecution and war. We aim to positively influence public opinion on refugees, enabling the people of Cambridgeshire to volunteer their services and provisions to help those newly arrived in the area.
 hero-image: crayons.jpg
 hero-alt: Generic background image of a hand drawing with crayons
 hero-title: About us
