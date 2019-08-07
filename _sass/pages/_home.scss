@@ -41,7 +41,6 @@
 
     .carousel-caption {
       top: 0;
-      left: 0;
       right: 0;
       text-align: left !important;
 
@@ -321,6 +320,10 @@ a {
 
   .carousel-image {
     position: relative;
+  }
+
+  .carousel-caption {
+    left: 0;
   }
 
   .carousel-wrapper .carousel .carousel-caption {
