@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Annual report for 2018"
+title:  Annual report for 2018
 date:   2019-08-12
 category: newslist
 type: news
