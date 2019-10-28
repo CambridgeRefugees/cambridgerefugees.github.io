@@ -15,7 +15,7 @@ If you are a landlord and would like to discuss offering your property, [email u
 
 ### Spare Room?
 
-If you have a spare room to offer, we only need those rarely. Please consider signing up to [Rooms for Refugees](http://www.paih.org/host-a-refugee/) or [Refugees at Home](http://www.refugeesathome.org ). Both these are organisations which match spare rooms and refugees that are in need of them.
+If you have a spare room to offer, we only need those rarely. Please consider signing up to [Rooms for Refugees](http://www.paih.org/host-a-refugee/) or [Refugees at Home](http://www.refugeesathome.org). Both these are organisations which match spare rooms and refugees that are in need of them.
 
 ### Community Sponsorship
 
