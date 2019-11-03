@@ -4,6 +4,7 @@ title:  Upcoming volunteer socials
 date:   2019-10-28
 category: newslist
 type: event
+event_date: 2019-11-06
 ---
 
 We love and appreciate our volunteers, and we want to see more of you! New and old volunteers meet regularly on the first Wednesday of every month between 7.30 and 9.30pm. The next social (at time of writing!) is on Wednesday the 6th of November, and the one after that is Wednesday the 7th of December.

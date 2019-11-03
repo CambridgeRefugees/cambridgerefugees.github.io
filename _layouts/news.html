@@ -22,13 +22,18 @@
           <a class="btn-wrapper" href="{{ post.url }}"><button class="btn more-info">Read more</button></a>
         </div>
         <div class="{% if post.type contains 'event' %}side{% else %}side-news{% endif %} event-date col-sm-2">
-          {% if post.type contains "event" %}
+          {% if post.type == "event" %}
           <h4>EVENT</h4>
           {% else %}
           <h4>NEWS</h4>
           {% endif %}
           <hr style="border-color:white;width:100%;">
-          <h4>{{ post.date | date: "%B %d, %Y" }}</h4>
+          <h4>
+            {{ post.date | date: "%B %d, %Y" }}
+            {% if post.type == "event" %}
+              <br />(On: {{ post.event_date  | date: "%b %d" }})
+            {% endif %}
+          </h4>
         </div>
         <div class="side col-sm-2"></div>
       </article>
