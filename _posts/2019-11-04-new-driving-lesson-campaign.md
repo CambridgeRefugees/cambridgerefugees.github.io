@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  New campaign launched!
-date:   2019-11-05
+date:   2019-11-04
 category: newslist
 type: news
 ---
