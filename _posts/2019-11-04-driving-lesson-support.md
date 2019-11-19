@@ -9,6 +9,10 @@ We are launching a new fundraising campaign to pay for driving lessons for any o
 
 We would like to hear from anyone prepared our learners out on practice drives - you'll need a full UK driver's licence in addition to our usual other requirements.
 
+> **Update 19th November**
+>
+> The first of our refugee friends has passed her driving theory test! Congratulations to her on this, and our best wishes as she works on the practical.
+
 If you can help financially, please [donate through our usual route](/donate) to support all our work, including this campaign.
 
 The ability to drive is very useful in a refugee's search for long-term employment and we hope that, through this campaign, we'll be able to make a real difference to our friends.
