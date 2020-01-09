@@ -12,9 +12,14 @@
       <div class="news-events">
         {{ content }}
       </div>
-      <div class="hero">
-        <a class="twitter-timeline" data-height="345" data-dnt="true" href="https://twitter.com/CamRefugees?ref_src=twsrc%5Etfw">Tweets by CamRefugees</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
+
+      <article class="news">
+        <div class="col-sm-2"></div>
+        <div class="content col-sm-8">
+          <a class="twitter-timeline" data-height="350" data-theme="light" href="https://twitter.com/CamRefugees?ref_src=twsrc%5Etfw">Tweets by CamRefugees</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+        <div class="side col-sm-2"></div>
+      </article>
 
       {% for post in site.categories.newslist %}
       <article class="{{ post.type }}">
@@ -45,5 +50,16 @@
     </div>
 
     {% include footer.html %}
+
+    <script type="text/javascript">
+     $(window).on('load', function () {
+       $('iframe[id^=twitter-widget-]').each(function () {
+         var head = $(this).contents().find('head');
+         if (head.length) {
+           head.append('<style>.timeline-widget { zoom: 60%; height: 600px; margin-left: auto; margin-right: auto; } .timeline-Viewport { height: 580px !important; } .timeline-Header-title { font-weight: bold; }</style>');
+         }
+       })
+     });
+    </script>
   </body>
 </html>
