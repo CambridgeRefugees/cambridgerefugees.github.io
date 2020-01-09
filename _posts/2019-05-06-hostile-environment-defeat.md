@@ -12,8 +12,11 @@ A key plank of Theresa May’s Hostile Environment immigration policy, the Right
 
 The Right to Rent scheme requires private landlords to check the immigration status of tenants and potential tenants and can result in them facing unlimited fines or even a prison sentence for renting to undocumented migrants.  
 
-![Joint Council for the Welfare of Immigrants logo](/images/2019-05-06-hostile-environment.png){:class="flow-around-image" }
+![Joint Council for the Welfare of Immigrants logo](/images/2019-05-06-hostile-environment.png){: .float-right}
 
 The Joint Council for the Welfare of Immigrants, which took the Government to court, warned that these measures increase discrimination for people of colour, people with accents and people with foreign names who will be asked to prove their immigration status even if they've lived here their whole lives. 
 
 The campaign group Global Justice Now have started a petition to end the hostile environment, which can be found [here](https://act.globaljustice.org.uk/sajid-javid-stop-hostile-environment-all-immigrants-0).
+
+&nbsp;
+{: .clearfix}

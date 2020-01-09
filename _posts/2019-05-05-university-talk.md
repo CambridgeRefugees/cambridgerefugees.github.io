@@ -6,7 +6,7 @@ category: newslist
 type: news
 ---
 
-![Abdulazez Dukhan during his talk](/images/2019-05-04-university-talk.jpg){:class="flow-around-image" }
+![Abdulazez Dukhan during his talk](/images/2019-05-05-university-talk.jpg){: .float-right}
 
 On 14 April, CRRC co-hosted a talk at the University Centre by Abdulazez Dukhan, a young Syrian refugee committed to telling the refugee story 'through refugee eyes'. This was part of a UK-wide speaking tour arranged by Safe Passage for Abdulazez, and was attended by almost 100 people.
 
