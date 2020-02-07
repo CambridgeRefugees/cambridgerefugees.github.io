@@ -112,3 +112,11 @@ ol {
     font-weight: inherit;
   }
 }
+
+.arabic {
+  direction: rtl;
+
+  h1 {
+    text-align: right;
+  }
+}
