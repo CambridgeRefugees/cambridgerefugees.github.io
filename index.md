@@ -2,7 +2,9 @@
 layout: home
 ---
 
-*[Doctors of the World](https://www.doctorsoftheworld.org.uk/) have produced translations into 34 languages of the NHS coronavirus advice, including [English](https://www.doctorsoftheworld.org.uk/wp-content/uploads/2020/03/English-Covid19-Guidance-v2-16.03.2020.pdf) and [Arabic](https://www.doctorsoftheworld.org.uk/wp-content/uploads/2020/03/Arabic-Covid19-Guidance-v2-16.03.2020-2.pdf). These are current as of 16 March. We'll try to update the links as new versions emerge, but please check [the Doctors of the World pages](https://www.doctorsoftheworld.org.uk/coronavirus-information/) directly to get the latest versions.*
+*[Doctors of the World](https://www.doctorsoftheworld.org.uk/) have produced translations into 34 languages of the NHS coronavirus advice, including English and Arabic. These are available from [the Doctors of the World pages](https://www.doctorsoftheworld.org.uk/coronavirus-information/).*
+
+**June 15-21 is Refugee Week. [Please join us]({% link _posts/2020-06-09-refugee-week.md %}) in celebrating and discovering more about the lives of refugees in the UK and elsewhere.**
 
 Cambridge has always been ready and willing to welcome refugees in times of crisis, and there have rarely been more people fleeing persecution and war. Offering sanctuary is a proud Cambridge tradition. We’re good at it, we always have been.
 

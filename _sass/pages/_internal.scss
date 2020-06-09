@@ -188,6 +188,7 @@
       text-align: center;
       margin: 0;
     }
+
   }
 
   .event-date {
@@ -198,6 +199,29 @@
     }
   }
 
+  .event-table {
+    tr {
+      th, td {
+        border-bottom: 2px solid $social-section-background-color;
+
+        a {
+          color: $main-background-color !important;
+
+          &:hover {
+            color: $hover-background-color !important;
+          }
+        }
+      }
+
+      &:last-of-type > td {
+        border: none;
+      }
+
+      td:first-of-type {
+        width: 250px;
+      }
+    }
+  }
   article:nth-child(odd) {
     background-color: $section-background-color;
   }
