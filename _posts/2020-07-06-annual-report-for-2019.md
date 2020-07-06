@@ -15,7 +15,7 @@ New in this financial year, CRRC sponsored native language lessons for children,
 To ensure that families are able to be mobile around the city, CRRC has been instrumental in providing bicycles and bike accessories for adults and children to all new families throughout the year. Many of the children and adults use their bikes to get to school, college or place of employment.
 
 ![CRRC beneficiaries participating in a bicycle maintenance training at OWL Bikes, part of
-Papworth Trust Cambridge](2020-07-06-crrc-annual-report-owl-bikes.png)
+Papworth Trust Cambridge](/images/2020-07-06-crrc-annual-report-owl-bikes.png)
 
 CRRC assisted several families with concerns regarding their accommodation. One of the first families to arrive had difficulties to feel welcomed in the neighbourhood of the first housing, and, therefore, took the opportunity to move to Sawston a few miles out of Cambridge. CRRC supported the family with liaison with Cambridge City Council and the management of the new housing, Hope into Action collaborating with the Catholic church in Sawston. Another family was supported by CRRC through the process of finding new, suitable accommodation as their housing contract, originally provided to the council by a private landlord, came to an end after the minimally required two-year commitment and after a challenging process for the family, they were relieved to be housed in a nice new flat in the south of Cambridge.
 
