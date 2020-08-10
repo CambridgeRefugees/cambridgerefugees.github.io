@@ -17,7 +17,7 @@ title: Cambridge Refugee Resettlement Campaign
 email: webmaster@cambridgerefugees.org
 description: Cambridge Refugee Resettlement Campaign helps those who have arrived in Cambridge seeking safety, in all ways from the practical provision of clothes and furniture, to helping with language learning and social differences.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.cambridgerefugees.org/" # the base hostname & protocol for your site, e.g. http://example.com
 future: false
 twitter_username: camrefugees
 github_username:  CambridgeRefugees
@@ -27,6 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-timeago
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
