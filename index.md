@@ -10,4 +10,4 @@ The Cambridge Refugee Resettlement Campaign (CRRC) is a group of volunteers, ini
 
 We work with the local authority, landlords and refugees to enable the people of Cambridgeshire to volunteer their services and provisions to help those newly arrived in the area.
 
-[Click here for more information]({% link about-us.md %})
+[Click here for more information]({% link about-us.md %}) 
