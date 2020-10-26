@@ -15,6 +15,7 @@ We are seeking enthusiastic and committed volunteers who will be at the heart of
 - Informing the Board of Trustees of the family’s wishes to be involved in community-based activities which CRRC can sponsor;
 - Liaising with the Donations team to ensure the family has the goods that they need;
 - Support the family with health-related aspects, transport, troubleshooting, etc.;
+- Assist the family with benefit claims;
 - Other support as needed.
 
 You will not be expected to meet all the needs yourself but rather to facilitate provision where required.

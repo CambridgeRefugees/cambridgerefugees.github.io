@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Childcare volunteers
-date: 2019-05-03
+date: 2020-10-26
 category: jobs
 ---
+
+**This post will be needed once face-to-face lessons restart.**
 
 We are looking for experienced and committed volunteers to take care of pre-school children of a range of ages in order to allow their parents to focus on English language classes.  The majority of the classes are held on Monday, Tuesday and Wednesday mornings at 10am-12pm in Cambridge but there may be some other ad-hoc needs.
 
