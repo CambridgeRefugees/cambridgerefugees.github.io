@@ -3,7 +3,8 @@ layout: post
 title:  Refugee Week 2020
 date:   2020-06-09
 category: newslist
-type: news
+type: event
+event_date: 2020-06-12
 ---
 
 ![Refugee Week 2020 logo](/images/2020-06-09-refugee-week-pink.svg){: .w-100}
