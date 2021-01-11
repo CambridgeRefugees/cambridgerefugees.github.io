@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Read ruby version to use from .ruby-version file
-ruby File.read(".ruby-version").strip
+ruby "~> #{File.read(".ruby-version").strip}"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
