@@ -16,8 +16,12 @@
       </div>
       <div class="header">
         <h2>{{ page.title }}</h2>
-        {% if page.event_date %}
-          <h3>Event on: {{ page.event_date | date: "%B %d, %Y" }}</h3>
+        {% if page.type == "event" %}
+          {% if page.event_end_date %}
+            <h3>Event dates: {{ page.event_date | date: "%B %d, %Y" }} &ndash; {{ page.event_end_date | date: "%B %d, %Y" }}</h3>
+          {% else %}
+            <h3>Event on: {{ page.event_date | date: "%B %d, %Y" }}</h3>
+          {% endif %}
         {% elsif page.date %}
           <h3>Posted: {{ page.date | date: "%B %d, %Y" }}</h3>
         {% endif %}
