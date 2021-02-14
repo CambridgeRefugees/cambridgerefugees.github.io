@@ -39,7 +39,12 @@
           <h4>
             {{ post.date | date: "%B %d, %Y" }}
             {% if post.type == "event" %}
-              <br />(On: {{ post.event_date  | date: "%b %d" }})
+              {% if post.event_end_date %}
+                <br />&nbsp;&nbsp;&nbsp;&nbsp;From: {{ post.event_date  | date: "%b %d" }}
+                <br />&nbsp;&nbsp;&nbsp;&nbsp;To: {{ post.event_end_date  | date: "%b %d" }}
+              {% else %}
+                <br />&nbsp;&nbsp;&nbsp;&nbsp;On: {{ post.event_date  | date: "%b %d" }}
+              {% endif %}
             {% endif %}
           </h4>
         </div>
