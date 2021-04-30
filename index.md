@@ -4,7 +4,7 @@ layout: home
 
 Cambridge has always been ready and willing to welcome refugees in times of crisis, and there have rarely been more people fleeing persecution and war. Offering sanctuary is a proud Cambridge tradition. We’re good at it, we always have been.
 
-**We are delighted that, as a result of the *Cambridge Will Act* petition supported by CRRC, the City Council pledged on 22 October join the UK Government's new resettlement scheme and accept 125 more refugees for resettlement in the city. They also committed to supporting and encouraging other local district councils to accept more, up to a potential total of 200.**
+**URGENT - The UK Government is conducting a consultation on its 'New Plan for Immigration'. [We are publishing our responses here]({% link npfi-2021.md %}). Please, if you have any opinions on the rights of refugees, make your position known to the Government so that we can ensure that the plans are radically overhauled before they are implemented.**
 
 The Cambridge Refugee Resettlement Campaign (CRRC) is a group of volunteers, initially set up by Citizens UK, that works with other organisations in Cambridge to welcome refugees and those seeking asylum. We aim to build positive public opinion about refugees, and to enable the people of Cambridgeshire to volunteer to help those newly arrived in the area.
 
