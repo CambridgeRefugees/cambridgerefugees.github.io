@@ -250,6 +250,10 @@
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
+
+  .orange {
+    color: $main-background-color;
+  }
 }
 
 @media only screen and (min-width: 480px) {
