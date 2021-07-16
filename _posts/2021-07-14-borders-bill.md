@@ -6,9 +6,19 @@ category: newslist
 type: news
 ---
 
-The UK Government's Borders Bill is due for its second reading next week, and is essentially the same as the [New Plan for Immigration]({% link npfi-2021.md %}). It is being rushed through before the results of the consultation are known, and before all the obvious flaws that were pointed out by expert groups have been made public or indeed addressed. The advice we gave about the NPfI still stands: it is illegal and immoral.
+The UK Government's Nationality and Borders Bill is due for its second reading next week, and is essentially the same as the [New Plan for Immigration]({% link npfi-2021.md %}). It is being rushed through before the results of the consultation are known, and before all the obvious flaws that were pointed out by expert groups have been made public or indeed addressed. The advice we gave about the NPfI still stands: it is illegal and immoral.
 
-Please write to your MP pointing this out. Use their email address if you have it, or you can use this WriteToThem form to find their details and send a message.
+Here are some resources specifically about this Bill that you might like to read.
+
+- The Joint Council for the Welfare of Immigrants [briefing](https://www.jcwi.org.uk/nationality-and-borders-bill-second-reading-briefing) on the second reading of the Nationality and Borders Bill.
+- The Refugee Council's [briefing](https://www.refugeecouncil.org.uk/information/resources/nationality-and-borders-bill-second-reading-refugee-council-briefing/) on the second reading of the Nationality and Borders Bill.
+- A [response](https://www.biduk.org/articles/850-bid-s-response-to-the-nationality-and-borders-bill) to the Nationality and Borders Bill from Bail for Immigration Detainees.
+- Liberty's [briefing](https://www.libertyhumanrights.org.uk/wp-content/uploads/2019/02/Libertys-second-reading-briefing-on-the-Nationality-and-Borders-Bill.pdf) (PDF) on the second reading of the Nationality and Borders Bill.
+- Safe Passage's [briefing](https://drive.google.com/file/d/1iqlPEHKz-WEy2sAf9y50RwVTCYZ4JQ8X/view) on the second reading of the Nationality and Borders Bill.
+- Together With Refugees [webinar recording](https://drive.google.com/file/d/1AODOjRwFQkIyLc7YaqUZAuKxEgvu-GVi/view?usp=sharing) about the Bill (MP4 file on Google Drive).
+- One Strong Voice's [petition](https://www.onestrongvoice.org.uk/petition.html) putting forward more humane ideas for our asylum system.
+
+Please write to your MP pointing out the problems with the Bill and asking for them to oppose it. Use their email address if you have it, or you can use this WriteToThem form to find their details and send a message.
 
 <!-- WriteToThem conventional box, start -->
 <div style="padding:0; border:1px solid #101820; width:14em; margin: 0;
